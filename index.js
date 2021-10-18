@@ -10,5 +10,6 @@ const { startCreating, buildSetup } = require(path.join(
 
 (() => {
   buildSetup();
+  debugger
   startCreating();
 })();

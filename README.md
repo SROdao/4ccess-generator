@@ -231,4 +231,3 @@ Trait type: Iris
 { trait: 'Small', chance: '60', occurrence: '70% out of 100%' }
 ```
 
-Hope you create some awesome artworks with this code 👄
